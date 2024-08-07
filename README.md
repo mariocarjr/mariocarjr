@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario Júnior</h1>
 <h3 align="center">A passionate backend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript, React.JS**
+- 📈 I’m currently code with **HTML, CSS, Typescript, React, Noje.JS and Python**
+
+- 🌱 Learning **Javascript, Typescript, React.JS**
 
 - 📫 How to reach me **mariocarjr@gmail.com**
 
